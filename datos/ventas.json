@@ -1,0 +1,22 @@
+[
+    {
+        "usuario": "luis",
+        "codigo_producto": "P002",
+        "fecha": "2026-09-26 19:40:28"
+    },
+    {
+        "usuario": "Hugo",
+        "codigo_producto": "P004",
+        "fecha": "2026-09-26 19:40:46"
+    },
+    {
+        "usuario": "luis",
+        "codigo_producto": "P003",
+        "fecha": "2026-09-26 19:41:04"
+    },
+    {
+        "usuario": "Hugo",
+        "codigo_producto": "P002",
+        "fecha": "2026-09-27 13:20:13"
+    }
+]

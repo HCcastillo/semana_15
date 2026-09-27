@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "COLA",
+        "precio": 6.0,
+        "stock": 10
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Hamburgesa",
+        "precio": 5.0,
+        "stock": 20
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Hot Dog",
+        "precio": 6.0,
+        "stock": 10
+    },
+    {
+        "codigo": "P004",
+        "nombre": "Papas",
+        "precio": 5.0,
+        "stock": 30
+    }
+]
